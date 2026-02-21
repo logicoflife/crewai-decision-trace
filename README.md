@@ -132,6 +132,20 @@ Outputs include:
 -   Streamlit viewer
 
 ------------------------------------------------------------------------
+## Interactive Decision Trace Viewer
+
+Below is the Streamlit-based decision trace viewer generated after running the demo.
+
+It provides:
+
+- Structured decision telemetry (Context, Actor, Logic, Outcome, Lineage)
+- Plan comparison with policy and risk validation
+- Agent-level timeline view
+- Raw semantic decision inspection
+- Cross-filtering by actor and decision type
+
+![Decision Trace Viewer](docs/assets/decision-trace-streamlit-dashboard.png)
+------------------------------------------------------------------------
 
 # Philosophy
 
