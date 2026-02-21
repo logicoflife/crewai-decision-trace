@@ -11,6 +11,31 @@ This repository provides:
 -   Offline HTML and Streamlit viewers
 -   A verification loop to ensure semantic correctness
 
+---
+
+## Quickstart
+
+```bash
+git clone https://github.com/logicoflife/crewai-decision-trace.git
+cd crewai-decision-trace
+
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install -U pip
+python -m pip install -e .
+
+PYTHONPATH=src python -m dt_crewai_demo.cli demo_all
+
+Outputs:
+
+out/runs/<persona>/decision_trace.jsonl
+
+out/runs/<persona>/.sdk_decision_trace.jsonl
+
+out/decision_trace_view.html
+
+If prompted to view execution traces, select N.
+
 ------------------------------------------------------------------------
 
 # Why This Exists
