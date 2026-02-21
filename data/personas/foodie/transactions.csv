@@ -1,0 +1,58 @@
+date,category,merchant,amount
+2026-01-01,Rent,Landlord,2200.0
+2026-01-01,Utilities,Electric+Gas,220.0
+2026-01-01,Healthcare,Pharmacy,60.0
+2026-01-01,Savings,Auto Transfer,400.0
+2026-01-01,Income,Paycheck,-5200.0
+2026-01-01,Dining,Dining Merchant,73.86
+2026-01-02,Dining,Dining Merchant,20.53
+2026-01-02,Groceries,Groceries Merchant,59.22
+2026-01-02,Groceries,Groceries Merchant,31.11
+2026-01-03,Groceries,Groceries Merchant,34.35
+2026-01-04,Coffee,Coffee Merchant,44.7
+2026-01-05,Dining,Dining Merchant,20.49
+2026-01-05,Coffee,Coffee Merchant,26.8
+2026-01-06,Groceries,Groceries Merchant,65.03
+2026-01-06,Groceries,Groceries Merchant,73.22
+2026-01-07,Groceries,Groceries Merchant,40.7
+2026-01-08,Dining,Dining Merchant,39.53
+2026-01-09,Coffee,Coffee Merchant,83.72
+2026-01-10,Coffee,Coffee Merchant,49.04
+2026-01-12,Gas,Gas Merchant,40.0
+2026-01-15,Income,Paycheck,-5200.0
+2026-01-15,Dining,Dining Merchant,84.21
+2026-01-16,Shopping,Shopping Merchant,47.21
+2026-01-16,Groceries,Groceries Merchant,76.73
+2026-01-17,Dining,Dining Merchant,50.67
+2026-01-17,Coffee,Coffee Merchant,88.82
+2026-01-17,Gas,Gas Merchant,76.08
+2026-01-17,Groceries,Groceries Merchant,41.37
+2026-01-18,Coffee,Coffee Merchant,68.7
+2026-01-18,Coffee,Coffee Merchant,86.4
+2026-01-19,Dining,Dining Merchant,21.69
+2026-01-19,Coffee,Coffee Merchant,76.51
+2026-01-19,Coffee,Coffee Merchant,62.74
+2026-01-20,Dining,Dining Merchant,61.48
+2026-01-20,Dining,Dining Merchant,45.74
+2026-01-20,Coffee,Coffee Merchant,51.28
+2026-01-21,Dining,Dining Merchant,59.39
+2026-01-21,Dining,Dining Merchant,46.52
+2026-01-21,Groceries,Groceries Merchant,23.06
+2026-01-22,Dining,Dining Merchant,59.1
+2026-01-23,Groceries,Groceries Merchant,55.44
+2026-01-24,Dining,Dining Merchant,39.52
+2026-01-24,Shopping,Shopping Merchant,38.58
+2026-01-25,Dining,Dining Merchant,38.55
+2026-01-25,Shopping,Shopping Merchant,25.48
+2026-01-25,Gas,Gas Merchant,54.44
+2026-01-27,Dining,Dining Merchant,27.26
+2026-01-27,Coffee,Coffee Merchant,26.15
+2026-01-27,Shopping,Shopping Merchant,65.21
+2026-01-27,Gas,Gas Merchant,51.69
+2026-01-27,Groceries,Groceries Merchant,82.32
+2026-01-28,Groceries,Groceries Merchant,61.09
+2026-01-29,Dining,Dining Merchant,57.16
+2026-01-29,Dining,Dining Merchant,85.42
+2026-01-30,Dining,Dining Merchant,20.55
+2026-01-30,Coffee,Coffee Merchant,49.81
+2026-01-31,Shopping,Shopping Merchant,21.44

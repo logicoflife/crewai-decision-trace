@@ -1,0 +1,13 @@
+protected_categories:
+- Rent
+- Healthcare
+- Utilities
+- Savings
+min_groceries: 450.0
+max_category_changes: 4
+savings_transfer:
+  enabled: true
+  percentage: 0.7
+single_category_cut_limit_pct: 0.35
+overconcentration_limit_pct: 0.5
+target_reduction_pct: 0.12

@@ -1,0 +1,23 @@
+# Virtual env
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Pytest
+.pytest_cache/
+
+# Mypy / Ruff
+.mypy_cache/
+.ruff_cache/
+
+# Output artifacts
+out/
+
+# OS
+.DS_Store
+
+# Packaging metadata
+*.egg-info/

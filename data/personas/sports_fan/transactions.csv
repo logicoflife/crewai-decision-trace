@@ -1,0 +1,48 @@
+date,category,merchant,amount
+2026-01-01,Rent,Landlord,2200.0
+2026-01-01,Utilities,Electric+Gas,220.0
+2026-01-01,Healthcare,Pharmacy,60.0
+2026-01-01,Savings,Auto Transfer,400.0
+2026-01-01,Income,Paycheck,-5200.0
+2026-01-01,Dining,Dining Merchant,49.57
+2026-01-01,Gas,Gas Merchant,31.11
+2026-01-02,Sports,Sports Merchant,66.19
+2026-01-03,Dining,Dining Merchant,29.15
+2026-01-03,Dining,Dining Merchant,57.41
+2026-01-03,Sports,Sports Merchant,43.01
+2026-01-05,Dining,Dining Merchant,54.48
+2026-01-05,Groceries,Groceries Merchant,44.31
+2026-01-06,Sports,Sports Merchant,89.55
+2026-01-06,Groceries,Groceries Merchant,41.91
+2026-01-08,Dining,Dining Merchant,81.11
+2026-01-08,Shopping,Shopping Merchant,84.33
+2026-01-10,Dining,Dining Merchant,61.7
+2026-01-10,Groceries,Groceries Merchant,36.02
+2026-01-11,Groceries,Groceries Merchant,70.17
+2026-01-12,Shopping,Shopping Merchant,68.57
+2026-01-13,Sports,Sports Merchant,77.96
+2026-01-14,Groceries,Groceries Merchant,30.46
+2026-01-15,Income,Paycheck,-5200.0
+2026-01-15,Sports,Sports Merchant,37.63
+2026-01-16,Sports,Sports Merchant,26.56
+2026-01-16,Shopping,Shopping Merchant,80.02
+2026-01-17,Gas,Gas Merchant,71.63
+2026-01-18,Dining,Dining Merchant,59.82
+2026-01-18,Shopping,Shopping Merchant,82.03
+2026-01-18,Gas,Gas Merchant,30.64
+2026-01-18,Groceries,Groceries Merchant,49.31
+2026-01-18,Groceries,Groceries Merchant,58.09
+2026-01-21,Sports,Sports Merchant,47.13
+2026-01-21,Shopping,Shopping Merchant,85.83
+2026-01-21,Groceries,Groceries Merchant,75.09
+2026-01-22,Dining,Dining Merchant,29.23
+2026-01-23,Gas,Gas Merchant,35.96
+2026-01-25,Sports,Sports Merchant,28.89
+2026-01-27,Dining,Dining Merchant,37.55
+2026-01-27,Gas,Gas Merchant,40.74
+2026-01-28,Dining,Dining Merchant,55.87
+2026-01-28,Groceries,Groceries Merchant,67.74
+2026-01-29,Gas,Gas Merchant,82.42
+2026-01-30,Dining,Dining Merchant,44.02
+2026-01-30,Dining,Dining Merchant,61.58
+2026-01-31,Shopping,Shopping Merchant,81.36

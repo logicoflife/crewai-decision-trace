@@ -1,0 +1,53 @@
+date,category,merchant,amount
+2026-01-01,Rent,Landlord,2200.0
+2026-01-01,Utilities,Electric+Gas,220.0
+2026-01-01,Healthcare,Pharmacy,60.0
+2026-01-01,Savings,Auto Transfer,400.0
+2026-01-01,Income,Paycheck,-5200.0
+2026-01-01,Shopping,Shopping Merchant,87.4
+2026-01-02,Dining,Dining Merchant,70.55
+2026-01-02,Streaming,Streaming Merchant,24.93
+2026-01-02,Shopping,Shopping Merchant,48.92
+2026-01-02,Groceries,Groceries Merchant,51.78
+2026-01-03,Entertainment,Entertainment Merchant,21.31
+2026-01-03,Shopping,Shopping Merchant,74.46
+2026-01-03,Gas,Gas Merchant,76.28
+2026-01-03,Groceries,Groceries Merchant,70.57
+2026-01-05,Dining,Dining Merchant,22.72
+2026-01-05,Entertainment,Entertainment Merchant,49.64
+2026-01-06,Streaming,Streaming Merchant,52.85
+2026-01-10,Entertainment,Entertainment Merchant,25.01
+2026-01-12,Dining,Dining Merchant,47.93
+2026-01-12,Dining,Dining Merchant,38.26
+2026-01-12,Entertainment,Entertainment Merchant,26.13
+2026-01-12,Shopping,Shopping Merchant,67.18
+2026-01-12,Groceries,Groceries Merchant,36.3
+2026-01-13,Dining,Dining Merchant,86.79
+2026-01-13,Dining,Dining Merchant,86.88
+2026-01-14,Dining,Dining Merchant,77.55
+2026-01-14,Dining,Dining Merchant,28.62
+2026-01-15,Income,Paycheck,-5200.0
+2026-01-15,Entertainment,Entertainment Merchant,64.77
+2026-01-16,Dining,Dining Merchant,57.46
+2026-01-16,Gas,Gas Merchant,78.69
+2026-01-16,Gas,Gas Merchant,52.18
+2026-01-18,Streaming,Streaming Merchant,46.89
+2026-01-18,Streaming,Streaming Merchant,26.13
+2026-01-19,Dining,Dining Merchant,32.2
+2026-01-19,Dining,Dining Merchant,47.96
+2026-01-19,Entertainment,Entertainment Merchant,85.09
+2026-01-19,Groceries,Groceries Merchant,74.1
+2026-01-20,Dining,Dining Merchant,52.55
+2026-01-20,Groceries,Groceries Merchant,40.1
+2026-01-22,Dining,Dining Merchant,79.83
+2026-01-22,Gas,Gas Merchant,32.9
+2026-01-24,Dining,Dining Merchant,66.43
+2026-01-24,Entertainment,Entertainment Merchant,81.19
+2026-01-24,Groceries,Groceries Merchant,43.1
+2026-01-25,Groceries,Groceries Merchant,73.84
+2026-01-26,Entertainment,Entertainment Merchant,47.02
+2026-01-26,Groceries,Groceries Merchant,32.67
+2026-01-29,Dining,Dining Merchant,28.36
+2026-01-30,Groceries,Groceries Merchant,87.73
+2026-01-31,Shopping,Shopping Merchant,65.03
+2026-01-31,Groceries,Groceries Merchant,82.02
