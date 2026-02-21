@@ -3,13 +3,13 @@ requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "dt-crewai-demo"
+name = "crewai-decision-trace"
 version = "0.1.0"
 description = "Deterministic CrewAI + Decision Trace demo"
 requires-python = ">=3.10"
 dependencies = [
   "crewai>=1.9.0",
-  "decision-trace @ git+https://github.com/logicoflife/decision-trace.git",
+  "decision-trace @ git+https://github.com/logicoflife/decision-trace.git@490ea89f04e11f5e4d7e0aa7fbecda3ed9717be8",
   "PyYAML>=6.0",
   "streamlit>=1.30",
   "pytest>=8.0",
